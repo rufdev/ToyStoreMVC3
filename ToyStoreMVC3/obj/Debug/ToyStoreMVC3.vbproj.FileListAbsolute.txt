@@ -1,0 +1,10 @@
+c:\users\aguilar\documents\visual studio 2010\Projects\ToyStoreMVC3\ToyStoreMVC3\bin\ToyStoreMVC3.dll
+c:\users\aguilar\documents\visual studio 2010\Projects\ToyStoreMVC3\ToyStoreMVC3\bin\ToyStoreMVC3.pdb
+c:\users\aguilar\documents\visual studio 2010\Projects\ToyStoreMVC3\ToyStoreMVC3\bin\ToyStoreMVC3.xml
+c:\users\aguilar\documents\visual studio 2010\Projects\ToyStoreMVC3\ToyStoreMVC3\obj\Debug\ResolveAssemblyReference.cache
+c:\users\aguilar\documents\visual studio 2010\Projects\ToyStoreMVC3\ToyStoreMVC3\obj\Debug\ToyStoreMVC3.Resources.resources
+c:\users\aguilar\documents\visual studio 2010\Projects\ToyStoreMVC3\ToyStoreMVC3\obj\Debug\GenerateResource.read.1.tlog
+c:\users\aguilar\documents\visual studio 2010\Projects\ToyStoreMVC3\ToyStoreMVC3\obj\Debug\GenerateResource.write.1.tlog
+c:\users\aguilar\documents\visual studio 2010\Projects\ToyStoreMVC3\ToyStoreMVC3\obj\Debug\ToyStoreMVC3.dll
+c:\users\aguilar\documents\visual studio 2010\Projects\ToyStoreMVC3\ToyStoreMVC3\obj\Debug\ToyStoreMVC3.xml
+c:\users\aguilar\documents\visual studio 2010\Projects\ToyStoreMVC3\ToyStoreMVC3\obj\Debug\ToyStoreMVC3.pdb
